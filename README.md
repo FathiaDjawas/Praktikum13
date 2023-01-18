@@ -107,12 +107,14 @@ Kelas : TI.22.A1
 
 4. Beri nama proyeknya, untuk tampilannya seperti pada gambar di bawah ini :
 
-![10](https://user-images.githubusercontent.com/115867244/212947003-3107571c-4991-4228-bfdb-be05ac728b72.png)
+![Screenshot (250)](https://user-images.githubusercontent.com/115916422/213154772-71d46ec7-ebf0-436a-92fe-35b5997ec76c.png)
+
 
 
 5. Kemudian Import Library yang telah kita install sebelumnya, untuk tampilannya seperti pada gambar dibawah ini :
 
-![11](https://user-images.githubusercontent.com/115867244/212947299-ca80b64c-d000-43aa-b128-be8eab976534.png)
+![Screenshot (249)](https://user-images.githubusercontent.com/115916422/213154361-bb663714-da17-467e-83bb-50be1244c553.png)
+
 
 
 6. Kemudian ketik program yang akan dijalankan (Saya menggunakan program Studi Kasus 4: BukaLapak (URL : https://www.bukalapak.com/c/komputer/laptop?from=nav_header)
@@ -122,12 +124,14 @@ Kelas : TI.22.A1
 
 7. Untuk tampilan lengkapnya sebagai berikut :
 
-![13](https://user-images.githubusercontent.com/115867244/212950391-2ec3d94a-2e1d-4e4b-9bdc-8e08b5a36bc3.png)
+![Screenshot (248)](https://user-images.githubusercontent.com/115916422/213153923-4ee744c4-02c6-4daa-8f0c-14e66f0ed0ca.png)
+
 
 
 8. JJika sudah benar dan berhasil di RUN maka akan menghasilkan output seperti gambar di bawah ini :
 
-![14](https://user-images.githubusercontent.com/115867244/212950863-3c0b6f20-474f-4d7b-a0af-57fc793c0dcb.png)
+![Screenshot (247)](https://user-images.githubusercontent.com/115916422/213153351-0198b1fb-0554-4b19-891b-22b0e4e8a101.png)
+
 
 
 ## Sekian, Terimakasih
